@@ -1,5 +1,9 @@
 # **Data Scientist Report: Analysis of NYC Real Estate Sales**
 
+**Author:** Joel Fuller
+
+**Email:** joelfuller2010@gmail.com
+
 ---
 
 ## **Objective**
